@@ -9,6 +9,8 @@
 ### Data:
 https://chanchal-kumar-mandal.github.io/reactjs-play-with-data/
 
+https://chanchal-kumar-mandal.github.io/reactjs-text-utility-app/
+
 ### Design:
 https://chanchal-kumar-mandal.github.io/reactjs-frontend-restaurant/
 
