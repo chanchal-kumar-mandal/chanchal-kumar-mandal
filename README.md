@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Canchal Kumar Mandal.
 - 👀 I’m interested in difficult programming with patience.
-- 🌱 I’m currently delivering complex Ractjs
+- 🌱 I’m currently delivering complex Ractjs applications.
 - 💞️ I’m looking to collaborate on upcoming/futuristic projets.
 - 📫 How to reach me? Email: ckmandal9@gmail.com, Contact: +(91)9110258141
 
